@@ -1,6 +1,8 @@
 # IT : Cahier des charges
 
+
 ### Répartition des rôles
+
 
 * Maxence Goutteratel
   * Alimentation en énergie et dispositifs verts
@@ -16,6 +18,7 @@
   
 
 > :calendar: TRAVAIL A RENDRE LE 2 FEVRIER. REVUE DE PROJET FINAL.
+
 
 ## Fichiers et détails :open_file_folder:
 
