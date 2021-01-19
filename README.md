@@ -2,6 +2,7 @@
 
 ### Répartition des rôles
 
+```
 * Maxence Goutteratel
   * Alimentation en énergie et dispositifs verts
   * Contraintes infrastructures
@@ -13,6 +14,8 @@
 * Enzo Morby
   * Dispositifs verts
   * Architecture et matériaux
+
+```
 
 > TRAVAIL A RENDRE LE 2 FEVRIER. REVUE DE PROJET FINAL.
 
