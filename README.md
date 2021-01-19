@@ -6,6 +6,7 @@
   * Contraintes infrastructures
 * Baptiste Joany
   * Sur-élèvement de l'infrastructure
+  * Diagramme de Gantt
 * Salambek Nekritov
   * Organisation des espaces
   * Consommations électrique
