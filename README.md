@@ -27,6 +27,10 @@
 * Planification des tâches Gantt
   * Projet Gantt
   * PDF Gantt
+ 
+* Ressources
+  * Fichiers vidéos .mp4
+  * Fichiers PDF
   
 * Travaux personnels gantt
   * Maxence Goutteratel
