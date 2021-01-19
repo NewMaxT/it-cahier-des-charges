@@ -19,7 +19,7 @@
 
 ## Fichiers et détails :open_file_folder:
 
-```md
+```markdown
 * Diaporama présentation orale
   * Diaporama en .pptx
   
