@@ -21,16 +21,23 @@
 
 ```md
 * Diaporama présentation orale
-  * CAHIER DES CHARGES.pptx
+  * Diaporama en .pptx
+  
 * Planification des tâches Gantt
   * Projet Gantt
   * PDF Gantt
+  
 * Travaux personnels gantt
-  * Organisation des espaces
-  * Consommations électrique
-* Enzo Morby
-  * Dispositifs verts
-  * Architecture et matériaux
+  * Maxence Goutteratel
+    * Fichier .docx
+  * Salambek Nekritov
+    * Fichier .docx
+  * Enzo Morby
+    * Fichier .docx
+  * Baptiste Joany
+    * Fichier .docx
+    
+* Cahier des charges complet en .docx
 ```
 
 ### Tâches à effectuer :pushpin:
