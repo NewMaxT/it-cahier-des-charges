@@ -1,7 +1,4 @@
-# IT : Cahier des charges
-
-
-### Répartition des rôles :family_man_boy:
+## Répartition des rôles :family_man_boy:
 
 
 * Maxence Goutteratel
