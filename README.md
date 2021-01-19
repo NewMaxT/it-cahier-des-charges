@@ -1,6 +1,6 @@
 ## Répartition des rôles :family_man_boy:
 
-
+```markdown
 * Maxence Goutteratel
   * Alimentation en énergie et dispositifs verts
   * Contraintes infrastructures
@@ -12,7 +12,7 @@
 * Enzo Morby
   * Dispositifs verts
   * Architecture et matériaux
-  
+  ```
 
 > :calendar: TRAVAIL A RENDRE LE 2 FEVRIER. REVUE DE PROJET FINAL.
 
@@ -42,11 +42,12 @@
 
 ### Tâches à effectuer :pushpin:
 
+```markdown
 - [ ] Dessin et représentation 3D
 - [x] Ascenseur et sur-élèvement
 - [ ] Consommation électriques
 - [ ] Dispositifs normalisés etc...
-
+```
 
 ## Dernières modifications :loudspeaker:
 
